@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import scikit.learn
 import joblib
 
 hero = pd.read_csv("sample_101_Mlbb_Heroes.csv")
